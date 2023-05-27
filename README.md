@@ -51,7 +51,7 @@ aka phone number and PIN an can use following features:
 
 •𝐄𝐗𝐈𝐓                   :If users want to exit the project that can be done through the feature.
 
-⦾I used 3 classes for different functions and variables and used the concept of constructor ,encapsulation etc also. The class variables are used for handling the data.Here txt files are used.
+⦾I used 3 classes for different functions and variables and used the concept of constructor ,encapsulation,STL etc also. The class variables are used for handling the data.Here txt files are used.
 Check out the code for more!Happy Coding!
 
 ||SIS2007110||
