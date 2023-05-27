@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685187488 source:d:\final oop project\pay online\flexi\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<ctime>
+	<iomanip>
+
