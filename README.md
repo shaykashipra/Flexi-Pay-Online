@@ -11,6 +11,7 @@ The user is allowed to use the following operations:
 Users have to create account with unique phone number,name,
 4 digit PIN,initial ammount.if account exists with same number,
 it can detect and refuses to create account.
+
 •𝐋𝐎𝐆𝐈𝐍            :Users have to log in with account number
 aka phone number and PIN an can use following features:
 
