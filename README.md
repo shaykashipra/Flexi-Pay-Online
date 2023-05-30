@@ -1,4 +1,4 @@
-# Flexi-Pay-Online
+# Pay-Online
 OOP(C++) project with File Handling
 # INTRODUCTION
 It is a BKASH simulator,which is developed in C++. It shows aspects of online payment and transfer money like 𝒂𝒄𝒄𝒐𝒖𝒏𝒕 𝒄𝒓𝒆𝒂𝒕𝒊𝒐𝒏, 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏𝒂𝒍 𝒂𝒄𝒕𝒊𝒗𝒊𝒕𝒊𝒆𝒔, 𝑭𝒍𝒆𝒙𝒊𝒍𝒐𝒂𝒅, 𝒐𝒏𝒍𝒊𝒏𝒆 𝒑𝒂𝒚𝒎𝒆𝒏𝒕,𝒈𝒓𝒆𝒆𝒕𝒊𝒏𝒈 𝒊𝒏 𝒔𝒑𝒆𝒄𝒊𝒂𝒍 𝒐𝒄𝒄𝒂𝒔𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔. The transactions & its date time and client information are kept in files and are accessed at a later time using the file handling concepts.
