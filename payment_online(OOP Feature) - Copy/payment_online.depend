@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685479954 source:d:\oop draft project\payment_online\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<ctime>
+	<iomanip>
+
